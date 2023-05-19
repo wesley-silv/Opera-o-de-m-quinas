@@ -1,0 +1,29 @@
+.cards-receitas .card {
+  color: #000000;
+  box-shadow: 4px 4px 10px #c0c0c0;
+  border-radius: 0;
+  margin: .5em auto;
+}
+.cards-receitas .card h5 {
+  color: #000000;
+  font-weight: bold;
+}
+.cards-receitas .card p {
+  color:  #000000;
+}
+.cards-receitas .btn {
+  border-width: 2px;
+  border-radius: 0;
+  color: #0000ff;
+  background-color: #ffffff;
+}
+.cards-receitas .btn:hover {
+  font-weight: bold;
+  border-radius: 5px;
+  color: #ffffff;
+  background-color: #0000ff;
+}
+
+.receitas-conteudo {
+  display: none;
+}

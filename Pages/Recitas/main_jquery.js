@@ -1,7 +1,7 @@
 $(function () {
-  $('.receitas').on({
+  $('.btn').on({
     click: function () {
-      $(this).toggle(2000)
+      $('.receitas-conteudo').toggle(500)
     }
   })
 })

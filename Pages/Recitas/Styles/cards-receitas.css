@@ -2,14 +2,15 @@
   color: #000000;
   box-shadow: 4px 4px 10px #c0c0c0;
   border-radius: 0;
-  margin: .5em auto;
+  margin: 0.5em auto;
+  font-size: 18px;
 }
 .cards-receitas .card h5 {
   color: #000000;
   font-weight: bold;
 }
 .cards-receitas .card p {
-  color:  #000000;
+  color: #000000;
 }
 .cards-receitas .btn {
   border-width: 2px;
@@ -23,7 +24,18 @@
   color: #ffffff;
   background-color: #0000ff;
 }
-
 .receitas-conteudo {
   display: none;
+}
+.receitas-conteudo li {
+  text-align: justify;
+  list-style-type: none;
+}
+.receitas-conteudo p {
+  margin: 0.5em 1em;
+  display: inline;
+}
+.receitas-conteudo span {
+  color: #ff0000;
+  font-weight: bold;
 }

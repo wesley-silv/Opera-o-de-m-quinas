@@ -4,11 +4,11 @@
 }
 .bi-gear-wide-connected {
   color: #ff0000;
-  font-size: 35px;
-  animation: gearrotation 7s infinite linear;
+  font-size: 30px;
+  animation: gear_rotation 7s infinite linear;
 }
 
-@keyframes gearrotation {
+@keyframes gear_rotation {
   from {
     transform: rotate(0deg);
   }

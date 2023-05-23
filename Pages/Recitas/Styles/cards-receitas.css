@@ -5,6 +5,9 @@
   margin: 0.5em auto;
   font-size: 18px;
 }
+.card img {
+  width: 280px;
+}
 .cards-receitas .card h5 {
   color: #000000;
   font-weight: bold;
@@ -35,7 +38,11 @@
   margin: 0.5em 1em;
   display: inline;
 }
-.receitas-conteudo span {
+.receitas-conteudo span{
   color: #ff0000;
+  font-weight: bold;
+}
+.receitas-conteudo h4 {
+  margin: .5em auto;
   font-weight: bold;
 }

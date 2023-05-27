@@ -3,16 +3,14 @@
   font-weight: bold;
 }
 .navbar a:hover {
-  color: #ffff00;
+  color: #ff0000;
 }
 .bi-gear-wide-connected {
-  color: #ffff00;
+  color: #ff0000;
   font-size: 25px;
   animation: gear_rotation 7s infinite linear;
 }
-.bi-gear-wide-connected:hover {
-  color: #ff0000;
-}
+
 
 @keyframes gear_rotation {
   from {

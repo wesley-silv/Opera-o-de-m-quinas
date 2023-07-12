@@ -15,6 +15,9 @@ $(function () {
   $('.btn-15').click(function () {
     $('.content-15').slideToggle(500)
   })
+  $('.btn-17').click(function () {
+    $('.content-17').slideToggle(500)
+  })
   $('.btn-20').click(function () {
     $('.content-20').slideToggle(500)
   })

@@ -1,3 +1,11 @@
+.title {
+  padding: .5em 1em;
+  font-weight: bold;
+  font-style: italic;
+  font-family:'Times New Roman', Times, serif;
+  text-transform: uppercase;
+  color: #8a2be2;
+}
 .cards-receitas .card {
   color: #000000;
   box-shadow: 4px 4px 10px #c0c0c0;
@@ -49,10 +57,4 @@
 .receitas-conteudo h4 {
   margin: .5em auto;
   font-weight: bold;
-}
-
-@media screen and (max-width: 600px) {
-  .card {
-    font-size: 16px;
-  }
 }
